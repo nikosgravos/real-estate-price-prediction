@@ -31,12 +31,3 @@ This project uses machine learning to predict real estate values based on housin
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn, tensorflow
 
-## How to Run
-
-1. Clone this repo
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Run notebooks or scripts:
-   ```bash
-   jupyter lab
